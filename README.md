@@ -1,6 +1,6 @@
 # 🎮 Block Drop
 
-A fully-featured, single-file block puzzle game built with HTML, CSS, and vanilla JavaScript. Inspired by classic falling-block games. Playable in any browser — no installs, no dependencies.
+A fully-featured, single-file block puzzle game built with HTML, CSS, and vanilla JavaScript. Inspired by classic falling-block games, but with a twist! An EARTHQUAKE button scrambles tiles on screen. Playable in any browser — no installs, no dependencies.
 
 🕹️ **[Play it live →](https://YOUR-USERNAME.github.io/block-drop/blockdrop.html)**
 
